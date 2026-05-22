@@ -189,8 +189,8 @@ summary = (
 
 # --- GRID SUBPLOT GRAPHICS ---
 colors = {
-    "SPY": "tab:blue",  "SSO": "tab:cyan",   "UPRO": "tab:green",
-    "QQQ": "tab:purple", "QLD": "tab:orange", "TQQQ": "tab:red",
+    "SPY": "tab:blue",  "SSO": "tab:green",   "UPRO": "tab:red",
+    "QQQ": "tab:blue", "QLD": "tab:green", "TQQQ": "tab:red",
 }
 
 # Establish a 2x2 grid framework
